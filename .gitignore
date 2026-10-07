@@ -1,0 +1,5 @@
+__pycache__/
+release/
+guest/mh.bin
+guest/mh.map
+mousehelper.json
